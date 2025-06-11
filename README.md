@@ -21,9 +21,13 @@ A full-featured, production-ready E-commerce web application built using the **M
 ## 🗂️ Project Structure
 
 ├──Client
+
 ├──Server
+
 ├──Admin dashboard
+
 ├──Docker and Kubernetes files
+
 ├──CICD files
 
 
